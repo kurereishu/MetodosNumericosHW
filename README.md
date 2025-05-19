@@ -1,2 +1,2 @@
-1.  [Ejercicio 1](Tarea 03 Ejercicios Unidad 01-B.ipynb)
+1.  [Ejercicio 1](Tarea03)
 -   [Gráfica 1](Tarea 04 Ejercicios Unidad 02 - A Biseccion.ipynb)
